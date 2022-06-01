@@ -14,6 +14,7 @@ public class Lambda1 {
             drawable d=new drawable()
             {
                 System.out("width"+w); 
+                System.out.println("");
             }
 
 
